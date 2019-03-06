@@ -1,0 +1,8 @@
+--- load_ncbi_taxonomy.pl.old	2019-03-05 21:19:48.000000000 -0800
++++ load_ncbi_taxonomy.pl	2019-03-05 21:20:13.000000000 -0800
+@@ -1,4 +1,4 @@
+-#!/usr/bin/perl -w
++#!/usr/bin/env perl -w
+ #
+ # $Id$
+ #
